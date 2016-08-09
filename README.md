@@ -1,7 +1,7 @@
 
 # First steps on the Linux Command Line
 
-**Dr. Kristian Rother**
+**Stolen with gratitude from Dr. Kristian Rother**
 
 ## What this tutorial is about?
 
